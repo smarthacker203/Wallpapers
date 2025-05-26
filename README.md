@@ -6,7 +6,7 @@ Here you'll find a mix of aesthetic, minimal, nature , and tech-themed wallpaper
 
 ## Folder Structure
 
-Aesthetic/ - clean and simple desighs
+'Aesthetic/' - clean and simple desighs
 
 tech/ - code, cyberpunk, digital vibes 
 
