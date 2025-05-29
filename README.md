@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/M6Gq7cf48CYAAAAi/white-anime.gif" height='160' align="right">
+<img src="https://media.tenor.com/wWruaJh3wD4AAAAi/transparent-gif-spider.gif" height='120' align="right">
 
 
 # Linux Wallpapers
